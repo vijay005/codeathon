@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Electronics</key>
+	<array>
+		<string>Mobile</string>
+		<string>Air Conditioners</string>
+		<string>Tablets</string>
+		<string>Television</string>
+		<string>Camera</string>
+		<string>Personal Care</string>
+		<string>Healthcare Devices</string>
+		<string>Software</string>
+		<string>Home Appliances</string>
+		<string>Kitchen Appliances</string>
+		<string>Others</string>
+	</array>
+	<key>Men &amp; Womens</key>
+	<array>
+		<string>Footwear</string>
+		<string>Clothing</string>
+		<string>Watches</string>
+		<string>Leather Items</string>
+		<string>Fragnances</string>
+		<string>Grooming</string>
+		<string>Others</string>
+	</array>
+	<key>Baby &amp; Kids</key>
+	<array>
+		<string>Toys</string>
+		<string>Baby care</string>
+		<string>Baby clothing</string>
+		<string>Books</string>
+		<string>Movies</string>
+		<string>Watches</string>
+		<string>Glasses</string>
+		<string>Others</string>
+	</array>
+	<key>Home &amp; Kitchen</key>
+	<array>
+		<string>Kitchen &amp; dining</string>
+		<string>Home furnishing</string>
+		<string>Bed and living</string>
+		<string>Bath room accessories</string>
+		<string>Housekeeping &amp; laundry</string>
+		<string>BathRoom accessories</string>
+		<string>Tools &amp; hardware</string>
+		<string>Kitchen appliances</string>
+		<string>Others</string>
+	</array>
+	<key>Books &amp; Media</key>
+	<array>
+		<string>Books</string>
+		<string>Movies &amp; TV Shows</string>
+		<string>Gaming</string>
+		<string>Music</string>
+		<string>Party games</string>
+		<string>Stationary</string>
+		<string>Office Equipments</string>
+		<string>Others</string>
+	</array>
+</dict>
+</plist>
